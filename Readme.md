@@ -70,12 +70,14 @@ python main.py
 Erika-AI-Chatbot/
 │
 ├── images/                  # Contains background, logo, and button images
+|   ├── app.gif
 │   ├── background.png
 │   ├── logo.ico
+|   ├── logo.png
 │   ├── logo1.png
 │   └── send1.png
 │
-├── main.py                  # Main application file
+├── Erika AI Chatbot.py                  # Main application file
 ├── config.py                # API configuration file
 ├── requirements.txt         # Python dependencies
 └── README.md
@@ -106,5 +108,6 @@ Krishna Singh
 ## Notes
 - Make sure your AI API supports the same request format as defined in AIChat() function.
 - For faster AI responses, reduce or remove the typing delay in display_message() function.
+
 
 ---
