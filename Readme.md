@@ -1,4 +1,4 @@
-# ![Erika AI Chatbot](images/logo.png)](https://github.com/KrishnaSingh-bit/Erika-AI-Chatbot)
+# [![Erika AI Chatbot](images/logo.png)](https://github.com/KrishnaSingh-bit/Erika-AI-Chatbot)
 
 Erika AI is a desktop chatbot application built using **Python**. It allows users to interact with an AI model (like OpenAI's GPT models or Groq AI models) in real-time, providing a smooth and visually appealing chat interface. The AI model used is configurable via the `config.py` file.
 
@@ -111,4 +111,5 @@ Krishna Singh
 
 
 ---
+
 
